@@ -18,7 +18,7 @@ Baseado em um projeto de mesmo nome realizado na Trybe.
 - [x] Adicionar um Header fixo ao topo da página
 - [x] Adicionar um Título dentro do Header
 - [ ] Adicionar uma foto minha à página
-- [ ] Adicionar um artigo sobre a minha jornada
+- [X] Adicionar um artigo sobre a minha jornada
 - [x] Adicionar uma lista de conhecimentos adquiridos
 - [x] Adicionar uma lista de conhecimentos a adquirir
 - [ ] Adicionar Links para o meu GitHub e o meu LinkedIn
