@@ -76,7 +76,7 @@ describe("Adicionar uma lista de conhecimentos adquiridos", () => {
   });
 });
 
-describe("Adicionar uma lista de conhecimentos a adquuirir", () => {
+describe.only("Adicionar uma lista de conhecimentos a adquuirir", () => {
   beforeEach(() => cy.visit("http://localhost:5173/lessons-learned/"));
 
   it("Verifica se há uma <ul> com id 'to-learn' dentro de uma section", () => {

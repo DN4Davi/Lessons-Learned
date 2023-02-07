@@ -20,5 +20,5 @@ Baseado em um projeto de mesmo nome realizado na Trybe.
 - [ ] Adicionar uma foto minha à página
 - [ ] Adicionar um artigo sobre a minha jornada
 - [x] Adicionar uma lista de conhecimentos adquiridos
-- [ ] Adicionar uma lista de conhecimentos a adquirir
+- [x] Adicionar uma lista de conhecimentos a adquirir
 - [ ] Adicionar Links para o meu GitHub e o meu LinkedIn
