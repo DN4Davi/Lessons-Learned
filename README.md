@@ -14,7 +14,7 @@ Baseado em um projeto de mesmo nome realizado na Trybe.
 
 ## Requisitos do projeto
 
-- [ ] Alterar o background da página
+- [x] Alterar o background da página
 - [ ] Adicionar um Header fixo ao topo da página
 - [ ] Adicionar um Título dentro do Header
 - [ ] Adicionar uma foto minha à página
