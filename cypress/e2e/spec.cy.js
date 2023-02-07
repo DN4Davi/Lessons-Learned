@@ -28,7 +28,7 @@ describe("Adicionar o título da página dentro do header", () => {
   beforeEach(() => cy.visit("http://localhost:5173/lessons-learned/"));
 
   it("Verifica se há um <h1> dentro do header", () => {
-    cy.get("header > h1").should("exist");
+    cy.get("header h1").should("exist");
   });
 });
 
@@ -76,7 +76,7 @@ describe("Adicionar uma lista de conhecimentos adquiridos", () => {
   });
 });
 
-describe.only("Adicionar uma lista de conhecimentos a adquuirir", () => {
+describe("Adicionar uma lista de conhecimentos a adquuirir", () => {
   beforeEach(() => cy.visit("http://localhost:5173/lessons-learned/"));
 
   it("Verifica se há uma <ul> com id 'to-learn' dentro de uma section", () => {
