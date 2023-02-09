@@ -16,6 +16,7 @@ body {
 
 .page-header {
   position: sticky;
+  background-color: #fdfdfd8a;
   top: 0;
   padding-top: 16px;
   padding-bottom: 16px;
@@ -27,7 +28,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   color: #404040;
-  mix-blend-mode: overlay;
 }
 
 main {
