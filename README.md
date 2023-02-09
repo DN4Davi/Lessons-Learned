@@ -17,7 +17,7 @@ Baseado em um projeto de mesmo nome realizado na Trybe.
 - [x] Alterar o background da página
 - [x] Adicionar um Header fixo ao topo da página
 - [x] Adicionar um Título dentro do Header
-- [ ] Adicionar uma foto minha à página
+- [x] Adicionar uma foto minha à página
 - [X] Adicionar um artigo sobre a minha jornada
 - [x] Adicionar uma lista de conhecimentos adquiridos
 - [x] Adicionar uma lista de conhecimentos a adquirir
