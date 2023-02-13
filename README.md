@@ -21,4 +21,4 @@ Baseado em um projeto de mesmo nome realizado na Trybe.
 - [X] Adicionar um artigo sobre a minha jornada
 - [x] Adicionar uma lista de conhecimentos adquiridos
 - [x] Adicionar uma lista de conhecimentos a adquirir
-- [ ] Adicionar Links para o meu GitHub e o meu LinkedIn
+- [x] Adicionar Links para o meu GitHub e o meu LinkedIn
