@@ -96,15 +96,15 @@ describe("Adicionar links para o meu GitHub e o meu LinkedIn", () => {
   beforeEach(() => cy.visit("http://localhost:5173/Lessons-Learned/"));
 
   it("Verifica se há um link para o GitHub", () => {
-    cy.get("a")
+    cy.get("a.github")
       .should("exist")
       .contains("GitHub")
       .and("have.attr", "href")
       .and("match", /https:\/\/www.github.com/);
   });
 
-  it("Verifica se há um link para o GitHub", () => {
-    cy.get("a")
+  it("Verifica se há um link para o LinkedIn", () => {
+    cy.get("a.linkedin")
       .should("exist")
       .contains("LinkedIn")
       .and("have.attr", "href")

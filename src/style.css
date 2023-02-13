@@ -24,10 +24,39 @@ body {
   backdrop-filter: blur(4px);
 }
 
+.page-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .page-header h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   color: #404040;
+}
+
+.page-header nav {
+  display: flex;
+  gap: 8px;
+}
+
+.page-header .navlink {
+  color: #565656;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background-color: #fafafa;
+  box-shadow: 0 1px 4px rgb(12 12 12 / 6%);
+}
+
+.page-header .bi {
+  font-size: 1.25rem;
 }
 
 main {
