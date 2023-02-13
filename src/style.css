@@ -28,6 +28,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .page-header h1 {
@@ -39,6 +41,12 @@ body {
 .page-header nav {
   display: flex;
   gap: 8px;
+}
+
+@media (max-width: 512px) {
+  .page-header .container {
+    justify-content: center;
+  }
 }
 
 .page-header .navlink {
